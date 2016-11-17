@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1479325461 source:/home/graham/Documents/CAG/CAG/main.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+	"RightAngledTriangle.h"
+
+1479321650 /home/graham/Documents/CAG/CAG/Shape.h
+
+1479320479 source:/home/graham/Documents/CAG/CAG/Shape.cpp
+	"Shape.h"
+
+1479322283 source:/home/graham/Documents/CAG/CAG/src/Shape.cpp
+	"Shape.h"
+
+1479322307 /home/graham/Documents/CAG/CAG/include/Shape.h
+
+1479324589 source:/home/graham/Documents/CAG/CAG/src/Rectangle.cpp
+	"Shape.h"
+	"Rectangle.h"
+
+1479325157 /home/graham/Documents/CAG/CAG/include/Rectangle.h
+
+1479325869 source:/home/graham/Documents/CAG/CAG/src/RightAngledTriangle.cpp
+	"Shape.h"
+	"Rectangle.h"
+	"RightAngledTriangle.h"
+
+1479325173 /home/graham/Documents/CAG/CAG/include/RightAngledTriangle.h
+
+1479386956 source:c:\users\user\desktop\cag\main.cpp
+	<vector>
+	<iostream>
+	<cassert>
+	"Shape.h"
+	"Rectangle.h"
+	"RightAngledTriangle.h"
+	"Circle.h"
+	"ShapesArea.h"
+
+1479375664 c:\users\user\desktop\cag\shape.h
+
+1479376541 c:\users\user\desktop\cag\include\rectangle.h
+
+1479376551 c:\users\user\desktop\cag\include\rightangledtriangle.h
+
+1479377599 source:c:\users\user\desktop\cag\src\rectangle.cpp
+	"Shape.h"
+	"Rectangle.h"
+
+1479376533 c:\users\user\desktop\cag\include\shape.h
+
+1479377606 source:c:\users\user\desktop\cag\src\rightangledtriangle.cpp
+	"Shape.h"
+	"RightAngledTriangle.h"
+
+1479377594 source:c:\users\user\desktop\cag\src\shape.cpp
+	"Shape.h"
+
+1479377927 c:\users\user\desktop\cag\include\circle.h
+
+1479387877 source:c:\users\user\desktop\cag\src\circle.cpp
+	<cmath>
+	"Shape.h"
+	"Circle.h"
+
+1479383064 c:\users\user\desktop\cag\include\shapesarea.h
+
+1479383849 source:c:\users\user\desktop\cag\src\shapesarea.cpp
+	<vector>
+	"Shape.h"
+	"Rectangle.h"
+	"RightAngledTriangle.h"
+	"Circle.h"
+	"ShapesArea.h"
+
